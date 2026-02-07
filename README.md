@@ -1,1 +1,1 @@
-thanks to (Leehow)[https://github.com/leegical/demoPanel/]
+thanks to [Leehow](https://github.com/leegical/demoPanel/)
